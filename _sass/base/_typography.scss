@@ -172,6 +172,12 @@ main {
     }
   }
 
+  .content {
+    p, li {
+      text-align: justify !important;
+    }
+  }
+
   @include bp.lte(bp.get(sm)) {
     .content {
       > blockquote[class^='prompt-'] {
