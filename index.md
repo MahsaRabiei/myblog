@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-I am a PhD candidate and robotics researcher at Princeton University. My background spans hardware and software, encompassing mechanical design, mechatronics, dynamic modeling, motion planning, and control. My current research focuses on advancing autonomous capabilities in robotic concrete additive manufacturing through the development of novel control and path-planning frameworks. I am passionate about bridging the gap between hardware and software, and building robust robotic systems capable of operating in complex, unstructured environments.
+I am a Ph.D. candidate and robotics researcher at Princeton University. My background spans hardware and software, encompassing mechanical design, mechatronics, dynamic modeling, motion planning, and control. My current research focuses on advancing autonomous capabilities in robotic concrete additive manufacturing through the development of novel control and path-planning frameworks. I am passionate about bridging the gap between hardware and software, and building robust robotic systems capable of operating in complex, unstructured environments.
 
 <br>
 
