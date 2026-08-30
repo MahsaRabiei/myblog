@@ -4,6 +4,16 @@ title: Projects
 icon: fas fa-robot
 order: 1
 ---
+<div style="margin-bottom:4rem;">
+  <h3>Autonomous Path Planning Framework for Robotic Additive Manufacturing in
+Unknown Environments</h3>
+  <ul>
+    <li>In Progress</li>
+  </ul>
+  <div style="display:flex; gap:1rem; flex-wrap:wrap;">
+    <img src="/commons/PP_Sim.png" alt="project image" style="width:320px; height:180px; object-fit:cover; border-radius:8px;">
+  </div>
+</div>
 
 <div style="margin-bottom:4rem;">
   <h3>Real-Time Pressure-based Feedback Control for Robotic Additive Manufacturing</h3>
