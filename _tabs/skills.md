@@ -52,6 +52,7 @@ order: 2
   <li>Load Cell</li>
   <li>RGB Camera</li>
   <li>Ultrasound Probe</li>
+  <li>Sensors</li>
 </ul>
 </div>
 
