@@ -18,5 +18,4 @@ jobs:
           script: |
             cd myblog
             git pull
-            JEKYIL_ENV = production
-            bundle exec jekyll build
+            JEKYLL_ENV=production bundle exec jekyll build
