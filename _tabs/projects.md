@@ -31,7 +31,7 @@ Unknown Environments</h3>
 <div style="margin-bottom:4rem;">
   <h3>Sensor Testing and Evaluation of Robot Vacuums</h3>
   <ul>
-    <li>Hardware-in-the-Loop (HIL) simulations for sensor validation of robot vacuums</li>
+    <li>Hardware-in-the-Loop (HIL) simulations for robot vacuums to validate control and decision-making software running on the actual embedded hardware</li>
     <li>Sensor testing for accuracy evaluation</li>
   </ul>
 </div>
